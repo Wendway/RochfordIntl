@@ -15,9 +15,13 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; background: #ececec; }
+/* Fixed-width page: the whole site sits in a centred 1200px column. */
 body {
-  margin: 0;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 0 0 24px rgba(0,0,0,.08);
+  min-height: 100vh;
   font-family: var(--font);
   font-weight: 300;
   color: var(--text);
@@ -62,7 +66,7 @@ p { margin: 0 0 1em; }
 .more-link { display: inline-block; color: var(--orange); font-weight: 600; margin-top: 18px; cursor: default; }
 
 /* ---------- Home: slider ---------- */
-.slider { position: relative; height: clamp(360px, 48vw, 660px); overflow: hidden; background: #222; }
+.slider { position: relative; height: clamp(360px, 48vw, 580px); overflow: hidden; background: #222; }
 .slide {
   position: absolute; inset: 0; background-size: cover; background-position: center;
   display: flex; align-items: center; justify-content: center; text-align: center;

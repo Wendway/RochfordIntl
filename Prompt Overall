@@ -1,6 +1,7 @@
 1. Summary
 This is a company website, Rochford Strategies. It was built by IONOS before, but the account was lost, so we are going to rebuild it. I have all screenshots of this website's design, text, pictures. 
-What you will do is 100% restore this website. 
+What you will do is 100% restore this website. All the content and element files are located at /Users/kenqu/Documents/Project/RochfordIntl_Website_Content/
+For all text, if you found any grammar or logic errors, correct it directly. 
 
 2. Overall
 The website has 5 pages: Home, Services, Insights&Information, Consulting, Contact. 
@@ -8,4 +9,18 @@ The logo of the company uses color of orange, take this color and match this col
 The very top and non-changing part of this website is Logo in the middle + Section bars (the one you click will become bold). 
 
 3. Home Page
-This page has 
+This page has 5 part
+Part A is a slice function, consisting of 3 photos with one sentence, when you click the arrow to left or to right, the photo will be changed to the left or right. The photos are HomePage_1.jpg, HomePage_2.jpg, HomePage_3.jpg. HomePage_1 has one sentence: 'RS publishes its most recent edition of the Monthly Oil & Gas Outlook'.  HomePage_2 has one sentence: 'Together we reach the goal. Let us put our expertise to work for you'. HomePage_3 has one sentence: 'World-Class Energy Consulting and Information Services'.
+
+Part B is About US section
+
+Part C is three columns: Expertise, Rochford Strategies Team, and Efficiency. However, these three photos are missing, you can make them according to what shows on the website screenshot. 
+
+Part D is Dependability. The left photo is missing, creat one. 
+
+Part E is Expert Consulting - not just energy....
+
+Part F is the bottom of this webpage, with 4 columns, our consultants, our services, our expertise, our newsletter. It should have 4 hyperlink, but i forgot where to link, just copy the design, donot add hyperlink. 
+
+
+

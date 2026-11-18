@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Montserrat, Helvetica, Arial, sans-serif">
+<rect width="800" height="500" fill="#fff"/>
+<text x="70" y="38" font-size="24" font-weight="700" fill="#1f1f1f">Crude Oil Prices, 2015–2025</text>
+<text x="70" y="64" font-size="16" fill="#777">Annual average spot price, US$ per barrel</text>
+<line x1="70" y1="430.0" x2="770" y2="430.0" stroke="#e6e6e6"/>
+<text x="60" y="435.0" font-size="14" fill="#888" text-anchor="end">$0</text>
+<line x1="70" y1="374.3" x2="770" y2="374.3" stroke="#e6e6e6"/>
+<text x="60" y="379.3" font-size="14" fill="#888" text-anchor="end">$20</text>
+<line x1="70" y1="318.7" x2="770" y2="318.7" stroke="#e6e6e6"/>
+<text x="60" y="323.7" font-size="14" fill="#888" text-anchor="end">$40</text>
+<line x1="70" y1="263.0" x2="770" y2="263.0" stroke="#e6e6e6"/>
+<text x="60" y="268.0" font-size="14" fill="#888" text-anchor="end">$60</text>
+<line x1="70" y1="207.3" x2="770" y2="207.3" stroke="#e6e6e6"/>
+<text x="60" y="212.3" font-size="14" fill="#888" text-anchor="end">$80</text>
+<line x1="70" y1="151.7" x2="770" y2="151.7" stroke="#e6e6e6"/>
+<text x="60" y="156.7" font-size="14" fill="#888" text-anchor="end">$100</text>
+<line x1="70" y1="96.0" x2="770" y2="96.0" stroke="#e6e6e6"/>
+<text x="60" y="101.0" font-size="14" fill="#888" text-anchor="end">$120</text>
+<text x="70.0" y="456" font-size="14" fill="#888" text-anchor="middle">2015</text>
+<text x="210.0" y="456" font-size="14" fill="#888" text-anchor="middle">2017</text>
+<text x="350.0" y="456" font-size="14" fill="#888" text-anchor="middle">2019</text>
+<text x="490.0" y="456" font-size="14" fill="#888" text-anchor="middle">2021</text>
+<text x="630.0" y="456" font-size="14" fill="#888" text-anchor="middle">2023</text>
+<text x="770.0" y="456" font-size="14" fill="#888" text-anchor="middle">2025</text>
+<polygon points="70.0,430.0 70.0,285.3 140.0,307.5 210.0,279.7 280.0,232.4 350.0,251.9 420.0,313.1 490.0,232.4 560.0,148.9 630.0,201.8 700.0,204.5 770.0,238.0 770.0,430.0" fill="#ff8a00" opacity=".10"/>
+<polyline points="70.0,285.3 140.0,307.5 210.0,279.7 280.0,232.4 350.0,251.9 420.0,313.1 490.0,232.4 560.0,148.9 630.0,201.8 700.0,204.5 770.0,238.0" fill="none" stroke="#ff8a00" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="285.3" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="140.0" cy="307.5" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="210.0" cy="279.7" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="280.0" cy="232.4" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="350.0" cy="251.9" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="420.0" cy="313.1" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="490.0" cy="232.4" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="560.0" cy="148.9" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="630.0" cy="201.8" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="700.0" cy="204.5" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<circle cx="770.0" cy="238.0" r="5" fill="#fff" stroke="#ff8a00" stroke-width="3"/>
+<text x="760.0" y="224.0" font-size="15" font-weight="700" fill="#ff8a00" text-anchor="end">$69</text>
+<rect x="540" y="30" width="22" height="4" rx="2" fill="#ff8a00"/>
+<text x="570" y="38" font-size="15" fill="#444">Brent</text>
+<polyline points="70.0,293.6 140.0,310.3 210.0,288.0 280.0,249.1 350.0,271.4 420.0,321.5 490.0,240.7 560.0,165.6 630.0,212.9 700.0,215.7 770.0,249.1" fill="none" stroke="#2c2a5c" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="293.6" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="140.0" cy="310.3" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="210.0" cy="288.0" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="280.0" cy="249.1" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="350.0" cy="271.4" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="420.0" cy="321.5" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="490.0" cy="240.7" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="560.0" cy="165.6" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="630.0" cy="212.9" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="700.0" cy="215.7" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<circle cx="770.0" cy="249.1" r="5" fill="#fff" stroke="#2c2a5c" stroke-width="3"/>
+<text x="760.0" y="277.1" font-size="15" font-weight="700" fill="#2c2a5c" text-anchor="end">$65</text>
+<rect x="690" y="30" width="22" height="4" rx="2" fill="#2c2a5c"/>
+<text x="720" y="38" font-size="15" fill="#444">WTI</text>
+<text x="560.0" y="132.9" font-size="15" font-weight="700" fill="#ff8a00" text-anchor="middle">$101</text>
+<text x="70" y="486" font-size="13" fill="#999">Source: U.S. Energy Information Administration. 2025 values are preliminary.</text>
+</svg>

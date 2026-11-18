@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 438" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <rect width="660" height="438" fill="#2c2a5c"/>
+  <circle cx="560" cy="70" r="150" fill="#35337a"/>
+  <rect x="50" y="50" width="380" height="300" rx="14" fill="#fff"/>
+  <text x="76" y="92" font-size="18" font-weight="700" fill="#2c2a5c">Time to insight</text>
+  <g stroke="#eee"><line x1="76" y1="140" x2="404" y2="140"/><line x1="76" y1="200" x2="404" y2="200"/><line x1="76" y1="260" x2="404" y2="260"/><line x1="76" y1="320" x2="404" y2="320"/></g>
+  <g fill="#c9c8de"><rect x="96" y="150" width="40" height="170" rx="4"/><rect x="166" y="185" width="40" height="135" rx="4"/><rect x="236" y="215" width="40" height="105" rx="4"/></g>
+  <g fill="#ff8a00"><rect x="306" y="250" width="40" height="70" rx="4"/></g>
+  <polyline points="116,140 186,175 256,205 326,240" fill="none" stroke="#2c2a5c" stroke-width="3" stroke-dasharray="6 6"/>
+  <!-- stopwatch -->
+  <circle cx="520" cy="270" r="92" fill="#fff"/>
+  <circle cx="520" cy="270" r="76" fill="none" stroke="#ff8a00" stroke-width="10" stroke-dasharray="330 480" stroke-linecap="round" transform="rotate(-90 520 270)"/>
+  <rect x="505" y="160" width="30" height="16" rx="4" fill="#fff"/>
+  <line x1="520" y1="270" x2="520" y2="215" stroke="#2c2a5c" stroke-width="8" stroke-linecap="round"/>
+  <line x1="520" y1="270" x2="560" y2="292" stroke="#2c2a5c" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="520" cy="270" r="9" fill="#ff8a00"/>
+  <!-- check -->
+  <circle cx="90" cy="385" r="22" fill="#ff8a00"/><polyline points="79,385 87,393 102,377" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="126" y="376" width="200" height="10" rx="5" fill="#8e8cc0"/><rect x="126" y="394" width="130" height="8" rx="4" fill="#5c5a9c"/>
+</svg>

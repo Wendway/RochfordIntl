@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 560" font-family="Montserrat, Helvetica, Arial, sans-serif">
+  <rect width="860" height="560" rx="18" fill="#2c2a5c"/>
+  <rect x="0" y="0" width="860" height="58" rx="18" fill="#232150"/><rect x="0" y="40" width="860" height="18" fill="#232150"/>
+  <circle cx="34" cy="29" r="7" fill="#ff8a00"/><circle cx="56" cy="29" r="7" fill="#5c5a9c"/><circle cx="78" cy="29" r="7" fill="#5c5a9c"/>
+  <text x="110" y="35" font-size="17" font-weight="700" fill="#fff">RS Dashboard</text>
+  <text x="826" y="35" font-size="13" fill="#a9a7d6" text-anchor="end">U.S. oil &amp; gas fundamentals · daily</text>
+  <!-- panel 1 -->
+  <rect x="24" y="80" width="520" height="250" rx="12" fill="#fff"/>
+  <text x="46" y="112" font-size="15" font-weight="700" fill="#2c2a5c">Working gas in storage vs. 5-year range</text>
+  <path d="M46 250 C120 200 180 170 250 190 S380 270 440 230 S510 160 522 150 L522 200 C500 210 460 280 440 280 S320 300 250 250 S120 270 46 300 Z" fill="#c9c8de" opacity=".55"/>
+  <path d="M46 270 C120 230 180 185 250 210 S380 285 440 250 S510 175 522 170" fill="none" stroke="#ff8a00" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#999" font-size="12"><text x="46" y="316">Jan</text><text x="170" y="316">Apr</text><text x="294" y="316">Jul</text><text x="418" y="316">Oct</text></g>
+  <!-- panel 2 -->
+  <rect x="564" y="80" width="272" height="250" rx="12" fill="#fff"/>
+  <text x="586" y="112" font-size="15" font-weight="700" fill="#2c2a5c">Power burn</text>
+  <g fill="#2c2a5c"><rect x="590" y="210" width="26" height="90" rx="3"/><rect x="626" y="190" width="26" height="110" rx="3"/><rect x="662" y="160" width="26" height="140" rx="3"/><rect x="698" y="140" width="26" height="160" rx="3"/><rect x="734" y="175" width="26" height="125" rx="3"/></g>
+  <rect x="770" y="150" width="26" height="150" rx="3" fill="#ff8a00"/>
+  <!-- panel 3-5 -->
+  <rect x="24" y="350" width="260" height="186" rx="12" fill="#fff"/>
+  <text x="46" y="382" font-size="15" font-weight="700" fill="#2c2a5c">LNG feedgas</text>
+  <polyline points="46,500 86,480 126,486 166,450 206,440 246,410 262,404" fill="none" stroke="#ff8a00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="300" y="350" width="260" height="186" rx="12" fill="#fff"/>
+  <text x="322" y="382" font-size="15" font-weight="700" fill="#2c2a5c">Henry Hub forward strip</text>
+  <g fill="#ff8a00"><circle cx="340" cy="470" r="6"/><circle cx="380" cy="455" r="6"/><circle cx="420" cy="440" r="6"/><circle cx="460" cy="448" r="6"/><circle cx="500" cy="430" r="6"/><circle cx="540" cy="420" r="6"/></g>
+  <polyline points="340,470 380,455 420,440 460,448 500,430 540,420" fill="none" stroke="#2c2a5c" stroke-width="2"/>
+  <rect x="576" y="350" width="260" height="186" rx="12" fill="#fff"/>
+  <text x="598" y="382" font-size="15" font-weight="700" fill="#2c2a5c">Supply / demand balance</text>
+  <circle cx="706" cy="462" r="50" fill="none" stroke="#e5e5ea" stroke-width="20"/>
+  <circle cx="706" cy="462" r="50" fill="none" stroke="#ff8a00" stroke-width="20" stroke-dasharray="190 400" transform="rotate(-90 706 462)"/>
+  <circle cx="706" cy="462" r="50" fill="none" stroke="#2c2a5c" stroke-width="20" stroke-dasharray="80 400" stroke-dashoffset="-190" transform="rotate(-90 706 462)"/>
+</svg>

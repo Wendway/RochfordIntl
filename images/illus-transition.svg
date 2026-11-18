@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 400">
+  <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe3bf"/><stop offset="1" stop-color="#fff6ea"/></linearGradient></defs>
+  <rect width="610" height="400" fill="url(#sky)"/>
+  <circle cx="470" cy="90" r="46" fill="#ff8a00" opacity=".85"/>
+  <path d="M0 300 C120 270 220 290 320 280 S520 250 610 270 V400 H0Z" fill="#e9e6f5"/>
+  <path d="M0 330 C140 310 260 330 380 318 S540 300 610 310 V400 H0Z" fill="#d6d3ea"/>
+  <g stroke="#2c2a5c" stroke-width="6" stroke-linecap="round"><line x1="150" y1="120" x2="150" y2="315"/><line x1="270" y1="160" x2="270" y2="318"/></g>
+  <g fill="#2c2a5c"><circle cx="150" cy="120" r="9"/><circle cx="270" cy="160" r="7"/></g>
+  <g stroke="#2c2a5c" stroke-width="8" stroke-linecap="round"><line x1="150" y1="120" x2="150" y2="46"/><line x1="150" y1="120" x2="214" y2="157"/><line x1="150" y1="120" x2="86" y2="157"/>
+  <line x1="270" y1="160" x2="300" y2="110"/><line x1="270" y1="160" x2="320" y2="186"/><line x1="270" y1="160" x2="214" y2="182"/></g>
+  <!-- solar panels -->
+  <g transform="translate(360 280) skewX(-18)">
+    <rect x="0" y="0" width="200" height="66" rx="4" fill="#2c2a5c"/>
+    <g stroke="#5c5a9c" stroke-width="2"><line x1="50" y1="0" x2="50" y2="66"/><line x1="100" y1="0" x2="100" y2="66"/><line x1="150" y1="0" x2="150" y2="66"/><line x1="0" y1="33" x2="200" y2="33"/></g>
+  </g>
+  <g stroke="#2c2a5c" stroke-width="5"><line x1="400" y1="346" x2="400" y2="372"/><line x1="530" y1="346" x2="530" y2="372"/></g>
+  <!-- H2 tank -->
+  <rect x="40" y="300" width="70" height="60" rx="30" fill="#fff" stroke="#2c2a5c" stroke-width="4"/>
+  <text x="75" y="339" font-family="Montserrat, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ff8a00" text-anchor="middle">H₂</text>
+</svg>
